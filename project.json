@@ -1,0 +1,26 @@
+{
+  "overview": "A premium, high-converting landing page for a digital marketing training institute. Features course highlights, interactive curriculum timeline, testimonials, pricing tiers, FAQ accordion, and a lead capture form — all fully responsive with modern SaaS-style design.",
+  "features": [
+    "Sticky navbar with enrollment CTA",
+    "Gradient hero section with trust badges and star ratings",
+    "Animated course highlight cards for 8 courses",
+    "Why Choose Us section with 6 feature cards",
+    "Interactive curriculum timeline with 9 modules",
+    "Testimonial slider with student reviews",
+    "3-tier pricing section (Basic, Pro, Premium)",
+    "FAQ accordion with smooth expand/collapse",
+    "Lead capture form with JS validation",
+    "Final CTA banner and full footer",
+    "Smooth scroll, scroll reveal animations, mobile hamburger menu"
+  ],
+  "category": "marketing-landing-pages",
+  "tags": [
+    "landing-page",
+    "digital-marketing",
+    "course",
+    "lead-generation",
+    "responsive",
+    "saas-design"
+  ],
+  "last_updated": "2026-05-17T20:08:21.480Z"
+}
